@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+whisper
+yt_dlp
+openai
+python-dotenv
